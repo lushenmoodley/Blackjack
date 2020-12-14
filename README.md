@@ -1,1 +1,1 @@
-Blackjack
+Blackjack console game
