@@ -1,1 +1,1 @@
-Blackjack console game
+Blackjack console application
