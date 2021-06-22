@@ -1,1 +1,1 @@
-Blackjack console application
+A console application which contains a blackjack game
